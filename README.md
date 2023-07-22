@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Parth Sabhadiya</h1>
-<h3 align="center">I am pursuing Master's in Computer Science at University of Texas at Dallas. I completed my Bachelor's from Gujarat Technological University. I have interest of working as full stack developer.</h3>
+<h3 align="center">I am did my Master's in Computer Science from University of Texas at Dallas. I completed my Bachelor's from Gujarat Technological University. I have interest of working as full stack developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthsabhadiya&label=Profile%20views&color=0e75b6&style=flat" alt="parthsabhadiya" /> </p>
 
-- 🔭 I’m currently working with [Hitachi Energy as Software Engineer Intern](https://www.hitachienergy.com/us/en)
+- 🔭 I’m currently working with [Imprivata as DevOps Engineer](https://www.imprivata.com/?utm_source=google&utm_medium=cpc&utm_campaign=brand_exact&utm_term=imprivata&utm_id=813924226&gclid=Cj0KCQjw_O2lBhCFARIsAB0E8B9bYcf6RXg3CAOTviIX2ecYyzskiI1DQJcj-Brn614t8JBYJGbaVGMaAoEHEALw_wcB)
 
 - 🌱 I’m currently learning **React, Node and Python**
 
